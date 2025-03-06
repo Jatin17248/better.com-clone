@@ -1,5 +1,5 @@
 import React, { useEffect, useLayoutEffect  } from "react";
-import Header from "../components/mortage/header";
+import Header from "../components/mortage/Header";
 
 import { useState } from "react";
 import MortageTextContent from "../components/mortage/MortageTextContent";
