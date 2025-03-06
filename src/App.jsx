@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom"; // ✅ Correct import
+import { Route, Routes } from "react-router-dom"; // ✅ Correct import
 import "./App.css";
 import "./main2.css";
 import "./abt2.css";
